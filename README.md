@@ -30,16 +30,26 @@ Smooth the image while keeping the edges sharp.
 Combine the edges with the color to create a cartoon-like effect.
 
 ## Images that express a cartoon-like well
+
+![1_combined](https://github.com/seokkkkkk/image_cartoonizer/assets/66684504/298d6e86-34d0-4e1c-9b54-4cbc99932158)
+
+![6_combined](https://github.com/seokkkkkk/image_cartoonizer/assets/66684504/35529e59-fd4f-4754-bf74-56193aff1c13)
+
 - Images with distinct contrash and simple backgrounds
 - Portrait or Close-up Images with Clear Contours
 - High illumination images
-![1_combined](https://github.com/seokkkkkk/image_cartoonizer/assets/66684504/298d6e86-34d0-4e1c-9b54-4cbc99932158)
+
 
 ## Images that express a cartoon-like badly
+
+![5_combined](https://github.com/seokkkkkk/image_cartoonizer/assets/66684504/33e26d82-e2b6-4b60-9004-7ef84a8dbba6)
+
+![2_combined](https://github.com/seokkkkkk/image_cartoonizer/assets/66684504/d494ebd7-f1a6-4cff-9b99-cc0b77af1422)
+
 - Images with low light or high noise
 - Images with many details and complex textures
 - Images with complex backgrounds
-![6_combined](https://github.com/seokkkkkk/image_cartoonizer/assets/66684504/35529e59-fd4f-4754-bf74-56193aff1c13)
+
 
 ## Limitations
 - loss of details
