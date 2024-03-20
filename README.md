@@ -33,11 +33,13 @@ Combine the edges with the color to create a cartoon-like effect.
 - Images with distinct contrash and simple backgrounds
 - Portrait or Close-up Images with Clear Contours
 - High illumination images
+![1_combined](https://github.com/seokkkkkk/image_cartoonizer/assets/66684504/298d6e86-34d0-4e1c-9b54-4cbc99932158)
 
 ## Images that express a cartoon-like badly
 - Images with low light or high noise
 - Images with many details and complex textures
 - Images with complex backgrounds
+![6_combined](https://github.com/seokkkkkk/image_cartoonizer/assets/66684504/35529e59-fd4f-4754-bf74-56193aff1c13)
 
 ## Limitations
 - loss of details
